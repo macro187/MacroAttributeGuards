@@ -14,6 +14,6 @@ MIT License <https://github.com/macro187/MacroAttributeGuards/blob/master/licens
 Copyright
 =========
 
-Copyright (c) 2018  
+Copyright (c) 2018-2023  
 Ron MacNeil <https://github.com/macro187>
 
